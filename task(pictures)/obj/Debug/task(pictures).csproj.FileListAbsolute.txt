@@ -1,0 +1,8 @@
+C:\Users\Danii\source\repos\task(pictures)\task(pictures)\bin\Debug\task(pictures).exe.config
+C:\Users\Danii\source\repos\task(pictures)\task(pictures)\bin\Debug\task(pictures).exe
+C:\Users\Danii\source\repos\task(pictures)\task(pictures)\bin\Debug\task(pictures).pdb
+C:\Users\Danii\source\repos\task(pictures)\task(pictures)\obj\Debug\task(pictures).csproj.AssemblyReference.cache
+C:\Users\Danii\source\repos\task(pictures)\task(pictures)\obj\Debug\task(pictures).csproj.SuggestedBindingRedirects.cache
+C:\Users\Danii\source\repos\task(pictures)\task(pictures)\obj\Debug\task(pictures).csproj.CoreCompileInputs.cache
+C:\Users\Danii\source\repos\task(pictures)\task(pictures)\obj\Debug\task(pictures).exe
+C:\Users\Danii\source\repos\task(pictures)\task(pictures)\obj\Debug\task(pictures).pdb
