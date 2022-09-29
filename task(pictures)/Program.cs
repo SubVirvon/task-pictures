@@ -10,11 +10,14 @@ namespace task_pictures_
     {
         static void Main(string[] args)
         {
-            int picturesCount = 52, rowLenght = 3, rowCount, freePictures;
+            int picturesCount = 52;
+            int rowLenght = 3;
+            int rowsCount;
+            int freePictures;
+            rowsCount = picturesCount / rowLenght;
+            freePictures = picturesCount % rowLenght;
 
-            rowCount = picturesCount / rowLenght;
-            freePictures = Convert.ToInt32(Convert.ToSingle(picturesCount) % rowLenght);
-            Console.WriteLine("Количество заполненных рядов: " + rowCount + "\nКоличество оставшихся картинок: " + freePictures);
+            Console.WriteLine("Количество заполненных рядов: " + rowsCount + "\nКоличество оставшихся картинок: " + freePictures);
             Console.ReadKey();
         }
     }
