@@ -14,6 +14,7 @@ namespace task_pictures_
             int rowLenght = 3;
             int rowsCount;
             int freePictures;
+
             rowsCount = picturesCount / rowLenght;
             freePictures = picturesCount % rowLenght;
 
